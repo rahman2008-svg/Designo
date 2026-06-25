@@ -1,0 +1,6 @@
+{
+  "name": "Designo – Offline Graphic Design Maker",
+  "description": "A powerful, fully offline Material 3 graphic design application. Design stunning posters, social media banners, YouTube thumbnails, CVs, and flyers with custom shapes, text formatting, layers, stickers, snapping systems, and local export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
